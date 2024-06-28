@@ -1,1 +1,1 @@
-# fast-inverse-sqrt-js
+# fast-inverse-sqrt
